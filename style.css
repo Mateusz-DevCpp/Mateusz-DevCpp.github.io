@@ -1,0 +1,110 @@
+body
+{
+	margin: 0px;
+	background-color: #084800;
+	font-variant: small-caps;
+}
+
+table
+{
+	text-align: center;
+	width: 100%;
+}
+
+#path_xml 
+{
+    text-align: center;
+	width: 75%;
+	padding: 5px;
+	margin-top: -3px;
+	border: none;
+	background-color: #292929;
+	color: white;
+}
+
+#title
+{
+	color: #ffffff;
+	font-size: 24px;
+	text-align: center;
+	padding: 20px;
+	background-color: #084800;
+}
+
+#navigation
+{   
+	position: sticky;
+    top: 0;
+	
+	min-height: 30px;
+	padding-bottom: 10px;
+	color: #ffffff;
+	background-color: #292929;
+}
+
+.navButton
+{
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	width: 25%;
+	text-align: center;
+	color: #ffffff;
+	border-radius: 0px 0px 10px 10px;
+}
+.navButton:hover
+{
+	background-color: #1d1d1d;
+	color: #ffffff;
+}
+
+#contetnt
+{
+	font-variant: normal;
+	background-color: #616161;
+	min-height: 700px;
+	color: #000000;
+	padding: 15px;
+	padding-left: 5%;
+	padding-right: 5%;
+	width: 90%;
+}
+
+#footer
+{
+	color: #ffffff;
+	font-size: 16px;
+	text-align: center;
+	padding: 10px;
+	background-color: #084800;
+}
+
+#txt td, #txt th {
+  border: 1px solid #000000;
+  padding: 10px;
+  color: white;
+}
+
+#txt tr:nth-child(even)
+{
+	background-color: #515151;
+}
+
+#txt tr 
+{
+	background-color: #3f3f3f;
+}
+
+#txt tr:hover 
+{
+	background-color: #000000;
+}
+
+#txt th 
+{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #084800;
+  color: white;
+}

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gry_komputerowe>
+   <gra>
+      <gatunek>Role_Playing_Game</gatunek>
+      <nazwa>Wiedźmin 3:</nazwa>
+      <podtytul>Dziki Gon</podtytul>
+      <producent>CD Projekt Red</producent>
+      <data_wydania>19-05-2015</data_wydania>
+      <ocena_gry>5</ocena_gry>
+      <cena waluta="PLN">99.99</cena>
+   </gra>
+   <gra>
+      <gatunek>Role_Playing_Game</gatunek>
+      <nazwa>Cyberpunk 2077</nazwa>
+      <podtytul>---</podtytul>
+      <producent>CD Projekt Red</producent>
+      <data_wydania>19-11-2020</data_wydania>
+      <ocena_gry>5</ocena_gry>
+      <cena waluta="PLN">199.00</cena>
+   </gra>
+   <gra>
+      <gatunek>Role_Playing_Game</gatunek>
+      <nazwa>The Elder Scrolls V:</nazwa>
+      <podtytul>Skyrim</podtytul>
+      <producent>Bethesda Game Studios</producent>
+      <data_wydania>11-11-2011</data_wydania>
+      <ocena_gry>4.5</ocena_gry>
+      <cena waluta="PLN">174.99</cena>
+   </gra>
+   <gra>
+      <gatunek>Role_Playing_Game</gatunek>
+      <nazwa>Assassin’s Creed</nazwa>
+      <podtytul>Origins</podtytul>
+      <producent>Ubisoft Montreal</producent>
+      <data_wydania>24-10-2017</data_wydania>
+      <ocena_gry>5</ocena_gry>
+      <cena waluta="PLN">249.90</cena>
+   </gra>
+   <gra>
+      <gatunek>First_Person_shooter</gatunek>
+      <nazwa>Counter-Strike:</nazwa>
+      <podtytul>Global Offensive</podtytul>
+      <producent>Valve Corporation</producent>
+      <data_wydania>21-08-2012</data_wydania>
+      <ocena_gry>5</ocena_gry>
+      <cena waluta="PLN">0.00</cena>
+   </gra>
+   <gra>
+      <gatunek>First_Person_shooter</gatunek>
+      <nazwa>Call of Duty:</nazwa>
+      <podtytul>Modern Warfare</podtytul>
+      <producent>Infinity Ward</producent>
+      <data_wydania>25-10-2019</data_wydania>
+      <ocena_gry>4</ocena_gry>
+      <cena waluta="PLN">94.91</cena>
+   </gra>
+   <gra>
+      <gatunek>First_Person_shooter</gatunek>
+      <nazwa>Valorant</nazwa>
+      <podtytul>---</podtytul>
+      <producent>Riot Games</producent>
+      <data_wydania>02-06-2020</data_wydania>
+      <ocena_gry>3.5</ocena_gry>
+      <cena waluta="PLN">0.00</cena>
+   </gra>
+   <gra>
+      <gatunek>First_Person_shooter</gatunek>
+      <nazwa>Tom Clancy's</nazwa>
+      <podtytul>Rainbow Six Siege</podtytul>
+      <producent>Ubisoft Montreal</producent>
+      <data_wydania>07-04-2015</data_wydania>
+      <ocena_gry>3</ocena_gry>
+      <cena waluta="PLN">79.90</cena>
+   </gra>
+   <gra>
+      <gatunek>Survival</gatunek>
+      <nazwa>Minecraft</nazwa>
+      <podtytul>---</podtytul>
+      <producent>Mojang Studios</producent>
+      <data_wydania>18-11-2011</data_wydania>
+      <ocena_gry>3.5</ocena_gry>
+      <cena waluta="PLN">109.99</cena>
+   </gra>
+   <gra>
+      <gatunek>Survival</gatunek>
+      <nazwa>Terraria</nazwa>
+      <podtytul>---</podtytul>
+      <producent>Re-Logic</producent>
+      <data_wydania>16-05-2011</data_wydania>
+      <ocena_gry>5</ocena_gry>
+      <cena waluta="PLN">35.99</cena>
+   </gra>
+   <gra>
+      <gatunek>Survival</gatunek>
+      <nazwa>Green Hell</nazwa>
+      <podtytul>---</podtytul>
+      <producent>Creepy Jar</producent>
+      <data_wydania>05-09-2019</data_wydania>
+      <ocena_gry>4</ocena_gry>
+      <cena waluta="PLN">89.99</cena>
+   </gra>
+   <gra>
+      <gatunek>Survival</gatunek>
+      <nazwa>Subnautica</nazwa>
+      <podtytul>---</podtytul>
+      <producent>Unknown Worlds Entertainment</producent>
+      <data_wydania>16-12-2014</data_wydania>
+      <ocena_gry>3.5</ocena_gry>
+      <cena waluta="PLN">89.99</cena>
+   </gra>
+   <gra>
+      <gatunek>Hack_And_Slash</gatunek>
+      <nazwa>Grim Dawn</nazwa>
+      <podtytul>---</podtytul>
+      <producent>Crate Entertainment</producent>
+      <data_wydania>25-02-2016</data_wydania>
+      <ocena_gry>4</ocena_gry>
+      <cena waluta="PLN">99.99</cena>
+   </gra>
+   <gra>
+      <gatunek>Hack_And_Slash</gatunek>
+      <nazwa>Diablo III</nazwa>
+      <podtytul>---</podtytul>
+      <producent>Blizzard Entertainment</producent>
+      <data_wydania>15-05-2012</data_wydania>
+      <ocena_gry>4.5</ocena_gry>
+      <cena waluta="PLN">75.99</cena>
+   </gra>
+   <gra>
+      <gatunek>Hack_And_Slash</gatunek>
+      <nazwa>Path of Exile</nazwa>
+      <podtytul>---</podtytul>
+      <producent>Grinding Gear Games</producent>
+      <data_wydania>23-10-2013</data_wydania>
+      <ocena_gry>3.5</ocena_gry>
+      <cena waluta="PLN">0.00</cena>
+   </gra>
+   <gra>
+      <gatunek>Hack_And_Slash</gatunek>
+      <nazwa>Titan Quest</nazwa>
+      <podtytul>---</podtytul>
+      <producent>Iron Lore Entertainment</producent>
+      <data_wydania>26-06-2006</data_wydania>
+      <ocena_gry>4</ocena_gry>
+      <cena waluta="PLN">59.99</cena>
+   </gra>
+   <gra>
+      <gatunek>Real_Time_Strategy</gatunek>
+      <nazwa>Age of Empires II:</nazwa>
+      <podtytul>The Age of Kings</podtytul>
+      <producent>Ensemble Studios</producent>
+      <data_wydania>30-09-1999</data_wydania>
+      <ocena_gry>5</ocena_gry>
+      <cena waluta="PLN">92.49</cena>
+   </gra>
+   <gra>
+      <gatunek>Real_Time_Strategy</gatunek>
+      <nazwa>StarCraft</nazwa>
+      <podtytul>---</podtytul>
+      <producent>Blizzard Entertainment</producent>
+      <data_wydania>28-03-1998</data_wydania>
+      <ocena_gry>2.5</ocena_gry>
+      <cena waluta="PLN">29.99</cena>
+   </gra>
+   <gra>
+      <gatunek>Real_Time_Strategy</gatunek>
+      <nazwa>Company of Heroes</nazwa>
+      <podtytul>---</podtytul>
+      <producent>Relic Entertainment</producent>
+      <data_wydania>11-09-2006</data_wydania>
+      <ocena_gry>3</ocena_gry>
+      <cena waluta="PLN">14.39</cena>
+   </gra>
+   <gra>
+      <gatunek>Real_Time_Strategy</gatunek>
+      <nazwa>Rise and Fall:</nazwa>
+      <podtytul>Civilizations at War</podtytul>
+      <producent>Midway Games San Diego</producent>
+      <data_wydania>12-06-2006</data_wydania>
+      <ocena_gry>4.5</ocena_gry>
+      <cena waluta="PLN">0.00</cena>
+   </gra>
+</gry_komputerowe>
