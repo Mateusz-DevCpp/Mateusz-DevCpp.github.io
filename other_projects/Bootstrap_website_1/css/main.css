@@ -1,0 +1,91 @@
+body
+{
+	background-color: gray;
+	color: white;
+}
+
+footer
+{
+	text-align: right; 
+}
+
+h1, h2
+{
+	text-align: center;
+	background-color: #144c00;
+	border-radius: 25px 25px 0px 0px;
+	padding: 5px;
+}
+
+p
+{
+	padding: 10px;
+}
+
+a
+{
+	color: white;
+}
+a:hover
+{
+	color: #808080;
+}
+/*-------------------------------------------------------*/
+
+.content
+{
+	text-align: center;
+}
+
+.navbar_colors
+{
+	background: #1c6900;
+}
+
+.article
+{
+	width: 100%;
+	text-align: left;
+	background: #1c6900;
+	border-radius: 25px;
+}
+
+.articles
+{
+	width: 100%;
+	text-align: left;
+	min-height: 250px;
+	background: #1c6900;
+	border-radius: 25px;
+}
+.articles:hover
+{
+	background: #144c00;
+}
+.articles:hover > h2
+{
+	background: #0f3a00;
+}
+
+.github_src
+{
+	text-decoration: none;
+}
+.github_src:hover
+{
+	text-decoration: none;
+}
+
+/*-------------------------------------------------------*/
+
+.navbar
+{
+	padding: 10px;
+}
+
+/*
+.navbar-nav li:hover > .dropdown-menu
+{
+	display: block;
+}
+*/
